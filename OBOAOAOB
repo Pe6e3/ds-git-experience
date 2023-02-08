@@ -1,0 +1,23 @@
+[33mcommit 77fbe48988a2833a64a0cbfa0db3bb0d1f8b6931[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Pe6e3 <xpe6e3@gmail.com>
+Date:   Wed Feb 8 20:36:18 2023 +0600
+
+    Удалил ридми
+
+[33mcommit d47094e7c846b2c7db3da385fe9a5605b98df6c4[m
+Author: Pe6e3 <xpe6e3@gmail.com>
+Date:   Wed Feb 8 20:35:22 2023 +0600
+
+    Добавил Readme
+
+[33mcommit 32dc5044fbae463c2f7888f318de57c77e9c8153[m
+Author: Pe6e3 <xpe6e3@gmail.com>
+Date:   Wed Feb 8 20:32:14 2023 +0600
+
+    Add project files.
+
+[33mcommit 22a138caebbdb36f38c3e5d62c5ae6cd3ed66302[m
+Author: Pe6e3 <xpe6e3@gmail.com>
+Date:   Wed Feb 8 20:32:12 2023 +0600
+
+    Add .gitattributes, .gitignore, and README.md.
